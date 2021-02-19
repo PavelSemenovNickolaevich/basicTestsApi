@@ -1,0 +1,44 @@
+{
+  "uid" : "b06f4d60beaffbdc",
+  "name" : "createBookingTests",
+  "fullName" : "Gradle suite.createBookingTests",
+  "historyId" : "d67d2a0908d65d7c3b71f52b3e3be84c",
+  "time" : {
+    "start" : 1613675807399,
+    "stop" : 1613675809676,
+    "duration" : 2277
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Gradle suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Gradle suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "createBookingTests"
+  }, {
+    "name" : "package",
+    "value" : "Gradle suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b06f4d60beaffbdc.json",
+  "parameterValues" : [ ]
+}

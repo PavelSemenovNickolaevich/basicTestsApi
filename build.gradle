@@ -1,0 +1,35 @@
+plugins {
+    id 'java'
+}
+
+
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+
+
+repositories {
+    mavenCentral()
+}
+
+configurations {
+    agent
+}
+
+dependencies {
+    implementation 'org.testng:testng:7.1.0'
+    compile 'io.rest-assured:rest-assured:3.0.6'
+    compile group: 'org.json', name: 'json', version: '20190722'
+    agent "org.aspectj:aspectjweaver:1.8.0"
+    testCompile "ru.yandex.qatools.allure:allure-testng-adaptor:1.4.0.RC4"
+}
+
+test {
+    useTestNG()
+}
+
+test.doFirst {
+    jvmArgs "-javaagent:${configurations.agent.singleFile}"
+}
+

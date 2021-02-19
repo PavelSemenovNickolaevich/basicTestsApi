@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Feb 18 22:28:15 GMT+03:00 2021","Thu Feb 18 22:28:17 GMT+03:00 2021","1548","","Gradle suite","","Gradle suite","getBooking","getBooking",""
+"passed","Thu Feb 18 22:28:14 GMT+03:00 2021","Thu Feb 18 22:28:15 GMT+03:00 2021","1674","","Gradle suite","","Gradle suite","deleteBooking","deleteBooking",""
+"passed","Thu Feb 18 22:28:11 GMT+03:00 2021","Thu Feb 18 22:28:14 GMT+03:00 2021","2344","","Gradle suite","","Gradle suite","createBookingTests","createBookingTests",""
+"passed","Thu Feb 18 22:28:04 GMT+03:00 2021","Thu Feb 18 22:28:11 GMT+03:00 2021","6963","","Gradle suite","","Gradle suite","addPetTest","addPetTest",""

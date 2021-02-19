@@ -1,0 +1,54 @@
+{
+  "uid" : "4bddf5f928fa921a",
+  "name" : "addPetTest",
+  "fullName" : "Gradle suite.addPetTest",
+  "historyId" : "72a098416861ad22c15913db77d0939e",
+  "time" : {
+    "start" : 1613676484540,
+    "stop" : 1613676491503,
+    "duration" : 6963
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Gradle suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Gradle suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "addPetTest"
+  }, {
+    "name" : "package",
+    "value" : "Gradle suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8119739f10316bf5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613675800127,
+        "stop" : 1613675807235,
+        "duration" : 7108
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4bddf5f928fa921a.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,41 @@
+[ {
+  "uid" : "32bcc5006c497138",
+  "name" : "getBooking",
+  "time" : {
+    "start" : 1613676495734,
+    "stop" : 1613676497282,
+    "duration" : 1548
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9939a492c424643f",
+  "name" : "deleteBooking",
+  "time" : {
+    "start" : 1613676494054,
+    "stop" : 1613676495728,
+    "duration" : 1674
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "704ed139a55b647e",
+  "name" : "createBookingTests",
+  "time" : {
+    "start" : 1613676491702,
+    "stop" : 1613676494046,
+    "duration" : 2344
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4bddf5f928fa921a",
+  "name" : "addPetTest",
+  "time" : {
+    "start" : 1613676484540,
+    "stop" : 1613676491503,
+    "duration" : 6963
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
